@@ -1,0 +1,1 @@
+A simple web app that changes the color of a box to a random color with each click. Built using HTML, CSS, and JavaScript. Great for practicing DOM manipulation, event handling, and working with random values in JavaScript
